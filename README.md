@@ -1,3 +1,2 @@
 # ML-model
-Machine learning models on breast cancer dataset
-In this project i used various linear regressions models on the breast cancer dataset and compared their results using python as the language. I used google colab for coding the model.
+In this project, I applied my knowledge of Machine Learning and predicted from the breast cancer dataset whether the cancer is malignant or benign. I trained the various models using different algorithms like K neighbors, Decision Tree Classifier, etc. to solve the regression problem.
